@@ -11,7 +11,7 @@
 ### chain
 
 - [ ] block_header
-- [ ] block
+- [x] block
 - [ ] constant
 - [ ] indexed_block
 - [ ] indexed_header
