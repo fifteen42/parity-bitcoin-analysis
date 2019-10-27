@@ -10,7 +10,7 @@
 
 ### chain
 
-- [ ] block_header
+- [x] block_header
 - [x] block
 - [ ] constant
 - [ ] indexed_block
