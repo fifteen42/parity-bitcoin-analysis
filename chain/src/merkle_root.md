@@ -14,13 +14,13 @@
 并行计算
 
 ### merkle_node_hash()
-计算两个节点的两次hash
+计算两个节点的两次 hash
 
 ## test
 
 ### test_merkle_root_with_2_hashes()
-计算两个hash的merkle根
+计算两个 hash 的 merkle 根
 
 ### test_merkle_root_with_5_hashes()
-计算五个hash的merkle根
+计算五个 hash 的 merkle 根
 
