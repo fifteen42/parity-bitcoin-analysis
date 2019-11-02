@@ -12,12 +12,12 @@
 
 - [x] block_header
 - [x] block
-- [ ] constant
-- [ ] indexed_block
-- [ ] indexed_header
-- [ ] indexed_transaction
+- [x] constant
+- [x] indexed_block
+- [x] indexed_header
+- [x] indexed_transaction
 - [ ] lib
-- [ ] mekle_root
+- [x] mekle_root
 - [ ] read_and_hash
 - [ ] transaction
 
