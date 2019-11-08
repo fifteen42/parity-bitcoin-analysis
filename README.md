@@ -19,7 +19,7 @@
 - [ ] lib
 - [x] mekle_root
 - [ ] read_and_hash
-- [ ] transaction
+- [x] transaction
 
 ## 参考材料
 主要参考的东西基本都是官方材料，以及一些权威一点的书籍:
