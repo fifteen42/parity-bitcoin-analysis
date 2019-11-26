@@ -13,3 +13,5 @@ pub use primitives::{hash, compact};
 pub use consensus::{ConsensusParams, ConsensusFork, BitcoinCashConsensusParams, TransactionOrdering};
 pub use deployments::Deployment;
 pub use network::{Magic, Network};
+
+// 一些包的组织管理

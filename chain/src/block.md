@@ -46,7 +46,7 @@ pub struct Block {
 
 ### header()
 
-返回头
+返回区块头
 
 ### hash()
 
