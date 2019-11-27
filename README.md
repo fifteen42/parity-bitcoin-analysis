@@ -24,7 +24,7 @@
 ## network
 
 - [ ] consensus
-- [ ] deployment
+- [x] deployment
 - [x] lib
 - [x] network
 
